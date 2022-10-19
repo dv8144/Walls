@@ -2,7 +2,7 @@
 		"name": "1",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/1.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/1.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/01.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -10,7 +10,7 @@
 		"name": "2",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/2.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/2.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/02.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -18,7 +18,7 @@
 		"name": "3",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/3.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/3.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/03.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -26,7 +26,7 @@
 		"name": "4",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/4.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/4.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/04.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -34,7 +34,7 @@
 		"name": "5",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/5.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/5.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/05.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -42,7 +42,7 @@
 		"name": "6",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/6.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/6.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/06.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -50,7 +50,7 @@
 		"name": "7",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/7.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/7.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/07.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -58,7 +58,7 @@
 		"name": "8",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/8.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/8.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/08.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -66,7 +66,7 @@
 		"name": "9",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/9.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/9.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/09.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -74,7 +74,7 @@
 		"name": "10",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/10.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/10.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/10.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -82,7 +82,7 @@
 		"name": "11",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/11.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/11.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/11.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -90,7 +90,7 @@
 		"name": "12",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/12.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/12.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/12.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -98,7 +98,7 @@
 		"name": "13",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/13.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/13.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/13.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -106,7 +106,7 @@
 		"name": "14",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/14.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/14.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/14.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -114,7 +114,7 @@
 		"name": "15",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/15.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/15.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/15.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -122,7 +122,7 @@
 		"name": "16",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/16.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/16.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/16.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -130,7 +130,7 @@
 		"name": "17",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/17.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/17.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/17.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -138,7 +138,7 @@
 		"name": "18",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/18.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/18.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/18.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -146,7 +146,7 @@
 		"name": "19",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/19.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/19.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/19.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -154,7 +154,7 @@
 		"name": "20",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/20.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/20.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/20.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -162,7 +162,7 @@
 		"name": "21",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/21.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/21.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/21.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -170,7 +170,7 @@
 		"name": "22",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/22.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/22.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/22.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -178,7 +178,7 @@
 		"name": "23",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/23.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/23.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/23.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -186,7 +186,7 @@
 		"name": "24",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/24.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/24.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/24.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -194,7 +194,7 @@
 		"name": "25",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/25.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/25.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/25.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -202,7 +202,7 @@
 		"name": "26",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/26.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/26.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/26.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -210,7 +210,7 @@
 		"name": "27",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/27.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/27.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/27.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -218,7 +218,7 @@
 		"name": "28",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/28.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/28.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/28.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -226,7 +226,7 @@
 		"name": "29",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/29.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/29.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/29.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	},
@@ -234,7 +234,7 @@
 		"name": "30",
 		"source": "unsplash",
 		"url": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/30.png",
-		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/walls/30.png",
+		"thumbnail": "https://raw.githubusercontent.com/dv8144/Walls/master/thumb/30.png",
 		"dimensions": "1080x2220",
 		"collections": "KLWP"
 	}
