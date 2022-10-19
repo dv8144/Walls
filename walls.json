@@ -1,5 +1,4 @@
-{
-	"wallpapers":[{
+[{
 
 		"name": "1",
 		"source": "Unsplash",
@@ -7,5 +6,20 @@
 		"thumbnail": "https://github.com/dv8144/Walls/blob/master/walls/1.png?raw=true",
 		"dimensions": "1080x2220",
 		"collections": "klwp background"
-	}]
-}
+	},
+	{
+		"name": "Webp Image",
+		"author": "unknown",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+	{
+		"name": "ShotA",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+		"collections": "featured,landscapes,people"
+	}
+]
