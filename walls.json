@@ -3,8 +3,8 @@
 
 		"name": "1",
 		"source": "Unsplash",
-		"url": "https://github.com/dv8144/Walls/blob/master/walls/1.png",
-		"thumbnail": "https://github.com/dv8144/Walls/blob/master/walls/1.png",
+		"url": "https://github.com/dv8144/Walls/blob/master/walls/1.png?raw=true",
+		"thumbnail": "https://github.com/dv8144/Walls/blob/master/walls/1.png?raw=true",
 		"dimensions": "1080x2220",
 		"collections": "klwp background"
 	}]
